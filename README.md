@@ -1,8 +1,6 @@
 # socketio_chatapp
 
-Install dependecies:
-1) npm install express@4.15.2
-2) npm install socket.io
-
-To run: node index.js
+1) npm install
+2) node index.js
+3) go to  http://localhost:3000
 
